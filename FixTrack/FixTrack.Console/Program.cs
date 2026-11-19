@@ -1,6 +1,11 @@
 ﻿using FixTrack.Core;
 
-var repository = new MemoryIssueRepository();
+using (var db = new FixTrackDb())
+{
+    db.Database.EnsureCreated();
+}
+
+var repository = new SqliteIssueRepository();
 var service = new IssueService(repository);
 
 service.Create("Trasig skärm", 1);
