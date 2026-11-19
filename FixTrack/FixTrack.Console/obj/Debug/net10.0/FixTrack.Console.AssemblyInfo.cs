@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FixTrack.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7bbfbcc93edc3b34203a41552e4d1294135e696")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c801e07f35a596a9f17d90a8ddbbbc850109418")]
 [assembly: System.Reflection.AssemblyProductAttribute("FixTrack.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FixTrack.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
