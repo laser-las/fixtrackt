@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FixTrack.Console/1.0.0": {
+        "dependencies": {
+          "FixTrack.Core": "1.0.0"
+        },
+        "runtime": {
+          "FixTrack.Console.dll": {}
+        }
+      },
+      "FixTrack.Core/1.0.0": {
+        "runtime": {
+          "FixTrack.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FixTrack.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FixTrack.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

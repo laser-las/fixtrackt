@@ -10,3 +10,4 @@ C:\Users\robin.ostmark\Documents\fixtrackt\FixTrack\FixTrack.Core\obj\Debug\net1
 C:\Users\robin.ostmark\Documents\fixtrackt\FixTrack\FixTrack.Core\obj\Debug\net10.0\FixTrack.Core.pdb
 C:\Users\robin.ostmark\Documents\fixtrackt\FixTrack\FixTrack.Core\obj\Debug\net10.0\ref\FixTrack.Core.dll
 C:\Users\robin.ostmark\Documents\fixtrackt\FixTrack\FixTrack.Core\obj\Debug\net10.0\FixTrack.Core.sourcelink.json
+C:\Users\robin.ostmark\Documents\fixtrackt\FixTrack\FixTrack.Core\obj\Debug\net10.0\FixTrack.Core.csproj.AssemblyReference.cache
